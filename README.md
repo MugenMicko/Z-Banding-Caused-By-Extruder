@@ -1,6 +1,7 @@
 # Z-Banding-Caused-By-Extruder
 ## How to rectify Z Banding that is caused by the extruder
 =======================================================
+
 I feel like I am forever seeing people asking on how to fix Z Banding on their 3d Prints and forever seeing dozens of people listing reasons why but so many seem to overlook the fact that the extruder can be a primary or often a secondary reason for this Z banding.  Over and above that, this same issue can be the cause of poor top layer quality and strange or excessive tinkering with settings to get good results.  So I am going to attempt to give people a methodolgy to get things set correctly.
 
 Your extruder could be the cause of Z banding issues either due to under or over extrusion, or the dreaded issue 6. 
